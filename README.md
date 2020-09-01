@@ -29,9 +29,9 @@ When you go on vacation, you want to be able to enjoy the full experience includ
 
 !["Homepage" page](client/src/images/homepage.png)
 
-!["Search" page](client/src/images/search.png)
-!["Saved trips" page](client/src/images/trips.png)
-!["View one trip" page](client/src/images/details.png)
+!["Search" page](client/src/images/search_.png)
+!["Saved trips" page](client/src/images/trip.png)
+!["View one trip" page](client/src/images/detail.png)
 
 
 
